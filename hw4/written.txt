@@ -1,0 +1,20 @@
+1A. void foo(int, int&);
+1B. char bar();
+1C. foo(3, 4);
+1D. bar();
+
+2. 
+Exercise #5: 
+Wow
+
+Exercise #12: 
+bool even(int n)
+{
+	return ((n % 2) == 0);
+}
+
+Exercise #22: 
+the funtion will work.
+
+3. 
+0 2 4 6 8 10 12 14 16 18 
